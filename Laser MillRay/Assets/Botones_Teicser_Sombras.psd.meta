@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 30c73cd0dbcb4f948860b7db9143e7a0
+timeCreated: 1513266679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Botones_Teicser_Sombras_0
+    21300002: Botones_Teicser_Sombras_1
+    21300004: Botones_Teicser_Sombras_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botones_Teicser_Sombras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botones_Teicser_Sombras_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botones_Teicser_Sombras_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -272, y: -380}
+      - {x: -328, y: -380}
+      - {x: -338, y: -397}
+      - {x: -338, y: -408}
+      - {x: -330, y: -426}
+      - {x: -315, y: -427}
+      - {x: -311, y: -423}
+      - {x: -308, y: -418}
+      - {x: -304, y: -418}
+      - {x: -301, y: -417}
+      - {x: -298, y: -418}
+      - {x: -307, y: -419}
+      - {x: -310, y: -422}
+      - {x: -310, y: -434}
+      - {x: -311, y: -441}
+      - {x: -301, y: -452}
+      - {x: -315, y: -450}
+      - {x: -333, y: -449}
+      - {x: -338, y: -455}
+      - {x: -338, y: -480}
+      - {x: -318, y: -498}
+      - {x: -281, y: -498}
+      - {x: -269, y: -495}
+      - {x: -254, y: -475}
+      - {x: -254, y: -383}
+    - - {x: -201, y: -382}
+      - {x: -254, y: -382}
+      - {x: -254, y: -493}
+      - {x: -247, y: -494}
+      - {x: -178, y: -494}
+      - {x: -158, y: -482}
+      - {x: -158, y: -408}
+      - {x: -177, y: -392}
+    - - {x: -194, y: -352}
+      - {x: -185, y: -349}
+      - {x: -159, y: -335}
+      - {x: -143, y: -322}
+      - {x: -132, y: -318}
+      - {x: -108, y: -307}
+      - {x: -90, y: -281}
+      - {x: -90, y: -120}
+      - {x: -99, y: -98}
+      - {x: -118, y: -88}
+      - {x: -165, y: -63}
+      - {x: -167, y: -57}
+      - {x: -193, y: -46}
+      - {x: -204, y: -38}
+      - {x: -241, y: -20}
+      - {x: -264, y: -20}
+      - {x: -296, y: -38}
+      - {x: -391, y: -92}
+      - {x: -397, y: -98}
+      - {x: -405, y: -118}
+      - {x: -406, y: -128}
+      - {x: -406, y: -264}
+      - {x: -405, y: -279}
+      - {x: -402, y: -292}
+      - {x: -395, y: -302}
+      - {x: -373, y: -315}
+      - {x: -357, y: -321}
+      - {x: -347, y: -329}
+      - {x: -319, y: -345}
+      - {x: -305, y: -351}
+      - {x: -289, y: -362}
+      - {x: -265, y: -374}
+      - {x: -253, y: -374}
+      - {x: -248, y: -371}
+      - {x: -240, y: -374}
+      - {x: -225, y: -374}
+    - - {x: 331, y: 22}
+      - {x: 341, y: 29}
+      - {x: 342, y: 32}
+      - {x: 342, y: 43}
+      - {x: 324, y: 63}
+      - {x: 342, y: 88}
+      - {x: 342, y: 117}
+      - {x: 325, y: 138}
+      - {x: 264, y: 138}
+      - {x: 262, y: 129}
+      - {x: 262, y: 75}
+      - {x: 263, y: 39}
+      - {x: 262, y: 38}
+      - {x: 262, y: 28}
+      - {x: 273, y: 22}
+      - {x: 285, y: 22}
+      - {x: 295, y: 35}
+      - {x: 295, y: 49}
+      - {x: 314, y: 22}
+    - - {x: 262, y: 126}
+      - {x: 262, y: 134}
+      - {x: 261, y: 135}
+      - {x: 247, y: 138}
+      - {x: 233, y: 138}
+      - {x: 210, y: 84}
+      - {x: 203, y: 109}
+      - {x: 191, y: 129}
+      - {x: 179, y: 138}
+      - {x: 163, y: 138}
+      - {x: 162, y: 135}
+      - {x: 162, y: 119}
+      - {x: 169, y: 95}
+      - {x: 181, y: 67}
+      - {x: 189, y: 52}
+      - {x: 196, y: 30}
+      - {x: 204, y: 26}
+      - {x: 222, y: 26}
+      - {x: 235, y: 51}
+      - {x: 247, y: 79}
+      - {x: 258, y: 107}
+    - - {x: -149, y: 377}
+      - {x: -215, y: 431}
+      - {x: -394, y: 431}
+      - {x: -398, y: 424}
+      - {x: -398, y: 70}
+      - {x: -115, y: 70}
+      - {x: -110, y: 75}
+      - {x: -110, y: 326}
+    - - {x: 275, y: 245}
+      - {x: 298, y: 187}
+      - {x: 307, y: 174}
+      - {x: 458, y: 174}
+      - {x: 473, y: 177}
+      - {x: 481, y: 184}
+      - {x: 486, y: 200}
+      - {x: 486, y: 437}
+      - {x: 476, y: 445}
+      - {x: 463, y: 450}
+      - {x: 30, y: 450}
+      - {x: 22, y: 435}
+      - {x: 22, y: 190}
+      - {x: 35, y: 177}
+      - {x: 51, y: 174}
+      - {x: 194, y: 174}
+      - {x: 217, y: 182}
+      - {x: 240, y: 254}
+      - {x: 248, y: 269}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
